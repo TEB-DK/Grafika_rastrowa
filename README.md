@@ -1,12 +1,12 @@
 <div align='center'>
 
-  # 🎨 Grafika rastrowa 
+  # 🎨 Grafika rastrowa 🎨
 Repozytorium dotyczące nauki grafiki rastrowej w programie [ Adobe Photoshop <img src='https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/86e3ae3f-2bab-4984-bcad-783c54324125' align='center' height='25' width='25'>](https://www.adobe.com/pl/products/photoshop.html).
 
 W tym repozytorium znajdziesz obszerne informacje i praktyczne porady, które pomogą Ci opanować grafikę rastrową w programie Adobe Photoshop. Każdy rozdział zawiera opis oraz praktyczne ćwiczenia, które umożliwią Ci praktyczne zastosowanie zdobytej wiedzy.
 
 <img src='https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/86e3ae3f-2bab-4984-bcad-783c54324125' align='center' height='25' width='25'>
-<img src='https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/86e3ae3f-2bab-4984-bcad-783c54324125' align='center' height='25' width='25'>
+
 </div>
 
 ## Spis treści
