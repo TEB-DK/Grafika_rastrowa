@@ -1,11 +1,14 @@
 <div align='center'>
 
   # 🎨 Grafika rastrowa 🎨
-Repozytorium dotyczące nauki grafiki rastrowej w programie [ Adobe Photoshop <img src='https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/86e3ae3f-2bab-4984-bcad-783c54324125' align='center' height='25' width='25'>](https://www.adobe.com/pl/products/photoshop.html).
+Repozytorium dotyczące nauki grafiki rastrowej w programie [ Adobe Photoshop ](https://www.adobe.com/pl/products/photoshop.html).
 
 W tym repozytorium znajdziesz obszerne informacje i praktyczne porady, które pomogą Ci opanować grafikę rastrową w programie Adobe Photoshop. Każdy rozdział zawiera opis oraz praktyczne ćwiczenia, które umożliwią Ci praktyczne zastosowanie zdobytej wiedzy.
 
-<img src='https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/86e3ae3f-2bab-4984-bcad-783c54324125' align='center' height='25' width='25'>
+<img src='https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/9eb46d62-b690-4737-8885-16857fba0845' align='center' height='50' width='50'>
+<img src='https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/2b91bc00-d9b0-4a53-a60b-9d598d52d605' align='center' height='50' width='50'>
+
+
 
 </div>
 
@@ -13,7 +16,7 @@ W tym repozytorium znajdziesz obszerne informacje i praktyczne porady, które po
 
 <details>
   <summary><strong>
-    1. Wprowadzenie do Adobe Photoshop <img src='https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/86e3ae3f-2bab-4984-bcad-783c54324125' align='center' height='20' width='20'> </strong>
+    1. Wprowadzenie do Adobe Photoshop <img src='https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/9eb46d62-b690-4737-8885-16857fba0845' align='center' height='30' width='30'> </strong>
   </summary>
   
   - [Co to jest Adobe Photoshop?](#co-to-jest-adobe-photoshop)
@@ -100,33 +103,35 @@ W tym repozytorium znajdziesz obszerne informacje i praktyczne porady, które po
     
 </details>
 
-## 1. Wprowadzenie do Adobe Photoshop <img src='https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/86e3ae3f-2bab-4984-bcad-783c54324125' align='center' height='28' width='28'>
+## 1. Wprowadzenie do Adobe Photoshop <img src='https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/9eb46d62-b690-4737-8885-16857fba0845' align='center' height='30' width='30'>
 
 ### Co to jest Adobe Photoshop? 
 > Adobe Photoshop to jedno z najpotężniejszych narzędzi do edycji grafiki rastrowej dostępnych na rynku. Jest to program stworzony przez firmę Adobe Systems i stanowi nieodłączny element arsenału profesjonalnych grafików, fotografów, a także pasjonatów tworzenia i edycji grafiki.
 
 ### Instalacja Adobe Photoshop
 Oczywiście, oto kroki do instalacji Adobe Photoshop krok po kroku:
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/553d2b4e-7901-4bbd-be47-691bf82e1a27)
 
 1. **Pobranie Instalatora**:
    > Pobierz oficjalny instalator ze strony [ 🔗 Adobe](https://www.adobe.com/pl/products/photoshop.html#mini-plans-web-cta-photoshop-card) lub z aplikacji Creative Cloud, jeśli masz subskrypcję.
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/a2dd3aaa-d0b0-4c62-8c6f-27fc421a01ba)
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/4806c7a3-8343-41fd-bb28-8d99f5953604)
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/65143e48-471c-4f31-ac9e-bad405c900d6)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/9a08c7cb-551a-4ea0-bce5-9e8c9fbd5fc6)
+
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/ce2fa0d2-4e36-42f4-aa3c-d602fff8d9d4)
 
 3. **Uruchomienie Instalatora**:
    > Uruchom plik instalacyjny (o rozszerzeniu .exe w Windows lub .dmg na macOS).
 
 5. **Wybór Opcji Instalacji**:
    > Wybierz rodzaj instalacji, np. pełną wersję lub wersję próbną ( 7 dniową ), zależnie od Twoich potrzeb.
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/9c8b57dc-a494-47d1-9c05-a1ed05612251)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/3029adc5-ccb2-4e8e-b06c-b8bdc242fc27)
 
 7. **Zalogowanie do Konta Adobe**:
    > Jeśli korzystasz z płatnej subskrypcji Creative Cloud, zaloguj się na swoje konto Adobe.
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/913192f4-1ab7-4d77-9ff7-99306347609d)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/71927a49-d93e-4752-9b55-45fa1f36fd5e)
 
 9. **Akceptacja Warunków Licencji**:
     > Zaakceptuj warunki licencji programu.
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/e0a35d26-2498-4de0-a7e1-0211a7b5c3c7)
 
 11. **Wybór Lokalizacji Instalacji**:
     > Wybierz lokalizację, w której chcesz zainstalować Photoshop.
@@ -146,7 +151,7 @@ Gratulacje! Teraz masz Adobe Photoshop pomyślnie zainstalowany na swoim kompute
 
 Pierwszym krokiem w opanowaniu Adobe Photoshop jest zrozumienie jego interfejsu. Interfejs Photoshopa składa się z wielu elementów, które umożliwiają wygodne i efektywne tworzenie i edycję grafiki rastrowej. Poznajmy te podstawowe elementy:
 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/a1d68d1c-3825-44d5-b447-84c89652d1f7)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/3f08e094-b48f-4760-ac07-7e1e1b770d43)
 
 - **Pasek narzędzi (1)**: To zbiór narzędzi niezbędnych do edycji i tworzenia grafiki. Możesz znaleźć narzędzia do rysowania, wycinania, malowania i wielu innych operacji.
 
@@ -158,78 +163,93 @@ Pierwszym krokiem w opanowaniu Adobe Photoshop jest zrozumienie jego interfejsu.
 
 ### Panel narzędzi
 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/acc2e060-be88-49a2-9c46-6c6444c8bc6c)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/2a6079cb-ba72-4d63-ad11-29863c9a4696)
 
 
 Pasek narzędzi w Adobe Photoshop to kluczowy element interfejsu użytkownika, który zawiera różnorodne narzędzia i opcje służące do edycji i tworzenia grafiki. Ten pasek znajduje się zazwyczaj z lewej strony okna programu i jest jednym z pierwszych miejsc, które przyciągają uwagę podczas pracy w Photoshopie. Oto opis kilku podstawowych narzędzi i funkcji, które można znaleźć na pasku narzędzi:
 
-1. **Narzędzie Wybierania (Selection Tool ![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/68f7c1af-80ff-425d-a22a-5665b3e3db3d)
-)**: To narzędzie pozwala na zaznaczanie i wybieranie obszarów na obrazie. Możesz używać go do wycinania, kopiowania lub przenoszenia elementów obrazu.
+1. **Narzędzie Wybierania (Selection Tool ![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/f73f59e1-e27f-4c6a-9e47-e9120ee2966d))**: To narzędzie pozwala na zaznaczanie i wybieranie obszarów na obrazie. Możesz używać go do wycinania, kopiowania lub przenoszenia elementów obrazu.
 
-2. **Narzędzie Pędzla (Brush Tool ![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/2e221af1-65ac-4c3c-98f5-468fbf494f55)
-)**: Narzędzie to służy do rysowania i malowania na obrazie. Możesz dostosować rozmiar i twardość pędzla oraz wybrać kolor.
+2. **Narzędzie Pędzla (Brush Tool ![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/03d4fa52-335a-4833-8785-e59c73a0d638))**: Narzędzie to służy do rysowania i malowania na obrazie. Możesz dostosować rozmiar i twardość pędzla oraz wybrać kolor.
 
-3. **Narzędzie Gumki (Eraser Tool ![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/4e37cbab-7088-435c-836f-a58e42e40143)
+3. **Narzędzie Gumki (Eraser Tool ![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/4245d7b0-af57-418a-88e8-f13a93181225)
+
 )**: Narzędzie gumki pozwala na usuwanie fragmentów obrazu. Jest szczególnie przydatne do retuszowania i korygowania błędów.
 
-4. **Narzędzie Wypełniania (Fill Tool ![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/e0de54b6-5d6b-4e0e-b773-fefe10b89c95)
+4. **Narzędzie Wypełniania (Fill Tool ![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/b9d8452b-725f-4445-8849-64bf8dfad931)
+
 )**: To narzędzie umożliwia wypełnienie wybranego obszaru kolorem lub wzorem.
 
-5. **Narzędzie Tekstu (Text Tool ![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/388d943d-0c1c-4efb-a9b8-3a5436f66a8d)
+5. **Narzędzie Tekstu (Text Tool ![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/b7c19de4-4a8d-4270-b668-168d36950834)
+
 )**: Pozwala na dodawanie tekstu do obrazu. Możesz wybierać czcionki, rozmiary i kolory tekstu.
 
-6. **Narzędzie Pipety (Eyedropper Tool ![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/2142dc02-bcb6-47e7-b8f5-4744f62423a0)
+6. **Narzędzie Pipety (Eyedropper Tool ![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/8e2fdcda-a3b4-4a94-aff2-16c8b3199449)
+
 )**: Narzędzie to pozwala na pobieranie kolorów z obrazu. Klikając na obszarze obrazu, można aktywować kolor do użycia w innych narzędziach.
 
-7. **Narzędzie Przesunięcia (Move Tool ![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/b3aab97d-56df-4b2b-a720-d37dde4831e0)
+7. **Narzędzie Przesunięcia (Move Tool ![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/72b4f31f-c6af-4823-8e69-fef38515aeb1)
+
 )**: Narzędzie to umożliwia przesuwanie i przekształcanie elementów obrazu.
 
-8. **Narzędzie Kształtu (Shape Tool ![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/3e3c6017-fc80-4a7a-afde-ece76ad305a3)
+8. **Narzędzie Kształtu (Shape Tool![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/e156963f-3f03-46cc-aeb9-3bc56a866e57)
+
 )**: Pozwala na rysowanie podstawowych kształtów, takich jak prostokąty, elipsy, linie itp.
 
-9. **Narzędzie Wycinania (Crop Tool ![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/9f748f9b-7fb8-4efe-afbd-c39def49acdf)
+9. **Narzędzie Wycinania (Crop Tool ![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/8d94afc8-3987-4572-b651-280efc7d7a26)
+
 )**: Narzędzie to pozwala na przycinanie obrazu do określonego rozmiaru lub proporcji.
 
-10. **Narzędzie Lupy (Zoom Tool ![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/7ac51246-1596-4e49-b697-a986b69c330c)
+10. **Narzędzie Lupy (Zoom Tool ![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/90bdd3f6-9a57-46ca-a2df-51334c061e9f)
+
 )**: Umożliwia przybliżanie i oddalanie obrazu, aby dokładniej pracować na szczegółach.
 
-11. **Narzędzie Próbki (Clone Stamp Tool ![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/10f8071c-34f4-4110-b830-726cbc990cb5)
+11. **Narzędzie Próbki (Clone Stamp Tool ![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/76730fd6-ff2d-455a-bc5c-dd7f6b52c0e8)
+
 )**: Narzędzie to pozwala na klonowanie fragmentów obrazu, co jest przydatne do usuwania niepożądanych elementów.
 
-12. **Narzędzie Rozmycia (Blur Tool ![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/d494c3b2-0968-4182-9cd6-4af0405560d7)
+12. **Narzędzie Rozmycia (Blur Tool ![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/0eb1eff5-0c3f-496a-8ca4-bd9d5fe706de)
+
 )**: Pozwala na rozmycie wybranych obszarów obrazu, co może być użyteczne w celu uzyskania efektów specjalnych.
 
 Powyższe narzędzia to tylko przykłady spośród wielu dostępnych na pasku narzędzi Photoshopa. Każde (prawie) ma kilka dodatkowych wariantów, które możemy odkryć za pomocą przytrzymania lewego przycisku myszy na danym narzędziu
 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/1a2ccad1-af4b-4a8e-af9a-3f157d7f53b2)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/3b7b17d5-d55a-4083-898d-fbadd16a30b6)
+
 
 
 ### Panele i okna
-Wszystkie możliwe panele i okna czy inne narzędzia można wyszukać za pomocą lupy programu (`CTRL + F`) ![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/9bca1a07-82e7-42e7-a80c-2a5fdf55a829)
+Wszystkie możliwe panele i okna czy inne narzędzia można wyszukać za pomocą lupy programu (`CTRL + F`) 
 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/79497bba-c9cc-4726-8037-c8acae49daff)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/01f30641-5ba3-4c5b-a0c7-434a5db85970)
+
+
 
 Palety i okna to dodatkowe narzędzia i opcje, które pomagają w pracy z Photoshopem. Możesz dostosować ich układ, aby mieć szybki dostęp do najważniejszych funkcji. Przykłady palet i okien to paleta kolorów, paleta stylów warstwowych i wiele innych. Warto poznać te elementy, ponieważ mogą znacząco usprawnić pracę z programem.
 
 1. **Paleta Kolorów (Color palette)**: Paleta kolorów pozwala na wybór kolorów do malowania, wypełniania obszarów i formatowania tekstu. Możesz dostosować paletę, aby korzystać z kolorów z palety webowej, Pantone czy innych systemów kolorów.
 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/ebc40b75-647d-465f-b0f5-9278bf5c2aea)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/9f6ff1e4-de35-4ea8-accc-9c34c366383c)
+
 
 3. **Paleta Warstw (Layers palette)**: Jest to jedna z najważniejszych palet w Photoshopie. Pozwala na zarządzanie warstwami w projekcie. Warstwy są używane do oddzielenia różnych elementów projektu, co ułatwia ich edycję i manipulację.
 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/3cfed8d8-a078-44b2-b5f6-f5e248afa31d)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/3e54e9d2-9e7e-48f5-884a-9aa5d5bead22)
+
 
 4. **Paleta Historii (History palette)**: Ta paleta śledzi historię wszystkich operacji wykonanych na obrazie. Pozwala na cofanie się do poprzednich stanów projektu i analizę, jakie zmiany zostały wprowadzone.
 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/428b9118-5190-466c-87ee-0f1eebc4b13a)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/924f46db-b259-49d4-b51c-b5142dadb1bf)
 
 5. **Paleta Stylów Warstwowych (Layer styles palette)**: Umożliwia dodawanie efektów stylizacyjnych do warstw, takich jak cienie, połyski, gradienty itp.
 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/b4609761-da06-4c65-82bf-40ec1f238122)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/655d64b7-f460-4cb8-8d60-f11ffbe1084e)
+
 
 6. **Panel Właściwości (Proporties panel)**: Jest używana do tworzenia i zarządzania ścieżkami, które można później przekształcić w selekcje lub trasy do rysowania.
 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/f003e9a5-ccbf-4ecb-b025-94c3e9da53f1)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/6114dee9-2c65-40a0-bf8c-57c70a7dc8ee)
+
 
 ### Skróty klawiszowe
 Adobe Photoshop CS6 oferuje wiele skrótów klawiszowych, które pozwalają na szybszą i bardziej efektywną pracę w programie. 
@@ -268,10 +288,12 @@ Dział "Praca z Obrazami" w Adobe Photoshop to fundamentalna część nauki korz
 ### Tworzenie nowego dokumentu
 
 - **Nowy dokument:** Tworzenie nowego projektu graficznego od podstaw. Podczas tworzenia nowego dokumentu, można określić jego rozmiar, rozdzielczość, tryb kolorów i wiele innych ustawień.
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/dd9a2c3f-77d5-41bb-ac28-539baccd661c)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/0bc3ca5d-d3a4-4202-9b19-52a6dbe3c530)
+
 
 - **Szablony dokumentów:** Photoshop oferuje gotowe szablony do różnych celów, takie jak projektowanie stron internetowych, banery reklamowe, czy plakaty. Użytkownicy mogą korzystać z tych szablonów jako punktu wyjścia dla swoich projektów.
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/f98deaba-ce1f-4e80-abca-e728066beca3)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/1061dfad-ed19-4bf7-9518-732e7e3dc15c)
+
 
 ### Otwieranie i zapisywanie plików
 
@@ -279,33 +301,38 @@ Dział "Praca z Obrazami" w Adobe Photoshop to fundamentalna część nauki korz
 
 - **Zapisywanie plików:** Pozwala na zapisywanie projektów w różnych formatach i miejscach na dysku, w zależności od potrzeb. Możliwe jest także zapisywanie wersji projektu w postaci pliku PSD, zachowującego warstwy i edytowalność.
 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/41a19780-a218-4b3a-a1cc-2a4845b9a82c)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/66e88ef9-1a1d-45e5-bc56-b9c5d829bb33)
+
 
 
 ### Rozmiar i rozdzielczość obrazu
 
 - **Rozmiar obrazu:** Użytkownik ma kontrolę nad wymiarami obrazu, co pozwala dostosować projekt do określonych wymagań, np. rozmiarów druku, mediów społecznościowych itp.
 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/45c3cb3c-8832-428f-81ea-7df0915f2ac5)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/d2532b85-16da-44fc-9d6e-1513a8e368c3)
+
 
 - **Rozdzielczość:** Photoshop pozwala na definiowanie rozdzielczości obrazu, co jest istotne szczególnie przy przygotowywaniu projektów do druku. Rozdzielczość jest mierzona w dpi (dots per inch) lub ppi (pixels per inch).
 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/c6f40d61-8a3c-422a-825d-298c894bd050)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/1bb2c613-39a6-45fd-a343-790e324ee219)
+
 
 ### Przeglądanie historii i tworzenie migawek
 
 - **Przeglądanie historii:** Photoshop zachowuje historię operacji wykonanych na obrazie. To pozwala użytkownikowi cofać się do poprzednich stanów projektu, jeśli zachodzi taka potrzeba.
 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/ffed29ef-0312-4d1e-b768-c2b73e02609f)
-
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/0725d844-2320-4010-b2ec-ae1fce5fe69c)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/f1e586c3-a8bb-48d2-82f2-ebbc0cdaa162)
 
 
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/8c57bc82-df68-4e7e-951a-4a27d86ef456)
 
 
-- **Migawka (![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/8f00b538-2dcb-4fdb-92c0-39fc196f882c)):** to narzędzie, które umożliwia zachowanie konkretnego stanu projektu w określonym momencie czasu. Działanie migawki jest podobne do tworzenia kopii zapasowej, która może być przywrócona w każdym momencie, aby cofnąć projekt do danego stanu. 
+
+- **Migawka (![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/0562a494-565c-4123-8210-6f706a40f904)
+):** to narzędzie, które umożliwia zachowanie konkretnego stanu projektu w określonym momencie czasu. Działanie migawki jest podobne do tworzenia kopii zapasowej, która może być przywrócona w każdym momencie, aby cofnąć projekt do danego stanu. 
   
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/8b7911f1-5176-40c4-9189-131d6f11d4ad)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/2ca91fdd-6f76-4929-9742-c090505399cc)
+
 
 
 #### ⭐ Zadanie do wykonania
@@ -364,41 +391,55 @@ Ten dział repozytorium skupia się na różnych narzędziach i funkcjach dostę
 
 - **Narzędzie lasso:** Umożliwia ręczne zaznaczanie nieregularnych obszarów na obrazie. Można wybrać narzędzie lasso zwykłe, lasso wielokrotne lub narzędzie magnetyczne, które przylega do konturów obiektów.
 
-  ![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/464d9a47-7540-4326-9f83-a560bd53a8f2)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/845b56d2-0aef-459f-89b9-b058845e0783)
 
-    - **Narzędzie magnetyczne:** To narzędzie pozwala na wybieranie obszarów za pomocą precyzyjnego dopasowania i zaznaczenia krawędzi. Jest szczególnie przydatne do dokładnego zaznaczania elementów.
+  - **Narzędzie magnetyczne:** To narzędzie pozwala na wybieranie obszarów za pomocą precyzyjnego dopasowania i zaznaczenia krawędzi. Jest szczególnie przydatne do dokładnego zaznaczania elementów.
 
 - **Narzędzie różnicy:** Umożliwia odejmowanie zaznaczeń, co jest przydatne, gdy trzeba wybrać skomplikowane obszary z różnych warstw.
 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/eaa9c2a4-b227-42bd-ab2c-de32bcf5f788)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/22ff2730-86ff-4d1d-a45d-ad8957e2e466)
 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/c5776684-7967-4724-8053-dfc825d16822)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/dfab568b-ccbf-4f6a-a61e-ca8b1df10c76)
 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/57dddf1e-8487-4ad6-bed2-f3988b6a8a3a)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/0fb3b15a-3a13-41a6-91e6-361b489d9c30)
+
 
 - **Narzędzie magicznej różnicy:** To narzędzie umożliwia zaznaczenie obszarów o podobnym kolorze lub jasności. Pomaga w szybkim zaznaczaniu elementów na podstawie kryteriów kolorystycznych. Z przytrzymanym klawiszem `SHIFT` dodajemy elementy do zaznaczenia, z klawiszem `ALT` odejmujemy.
 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/64501d9e-99ad-40ea-9fa1-01f3576050e9)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/36c3d057-d3a2-4a53-8cde-798b69fcbc66)
 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/37329dee-3f6c-4bc0-b17c-dd74d30ace13)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/62c4ae84-5d6e-4475-8899-898681d2ecd7)
 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/f891b0ea-419c-4cec-aa80-7775eddc7477)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/ef2e29cd-42f3-4a7f-a200-7d52300b9a40)
 
 ### Malowanie i rysowanie
 
 - **Pędzle:** Adobe Photoshop oferuje różnorodne pędzle, które pozwalają na malowanie, rysowanie i tworzenie efektów artystycznych. Możesz dostosowywać rozmiar, kształt, przeźroczystość i inne parametry pędzla.
 
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/edbcd01a-1a68-437c-8b27-782a1c87b905)
+
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/528e0f55-c43a-43e3-ba62-5c81851d38cb)
+
+
 - **Kreślenie ołówkiem:** Narzędzie to pozwala na ręczne rysowanie linii i kształtów ołówkiem. Można dostosować grubość linii i inne ustawienia.
 
 - **Kształty i figury:** W Photoshopie można rysować różne kształty, takie jak prostokąty, okręgi, trójkąty i wiele innych. Te narzędzia pozwalają na tworzenie elementów graficznych o regularnych kształtach.
+
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/480b34e0-e6cd-4557-8be3-1e3dddb8ac41)
+
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/9549cb52-bf65-4761-9085-f1426910a551)
+
 
 ### Retuszowanie i poprawianie błędów
 
 - **Klonowanie:** Narzędzie klonowania pozwala na duplikowanie fragmentów obrazu i umieszczanie ich w innych miejscach. Jest używane do usuwania niepożądanych obiektów lub poprawiania błędów.
 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/e64f5b70-02ed-449d-afbe-72868f519c8a)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/a65198ba-9984-4f83-8df6-0ffa41d7fb50)
 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/75654333-5906-431c-811b-bf87f17ecaec)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/a040dab0-be8d-479c-bbce-4f0cd5d92eb4)
+
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/fc414892-396f-4d45-acc8-9ea2e2d62981)
+
 
   - ⭐ Zadanie do wykonania
 
@@ -431,40 +472,45 @@ Ten dział repozytorium skupia się na różnych narzędziach i funkcjach dostę
 
 - **Naprawa**: Narzędzie do naprawy pomaga w usuwaniu niedoskonałości na skórze lub innych powierzchniach poprzez zastępowanie problematycznych obszarów przy użyciu otaczających pikseli.
 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/6a86b420-f264-47da-ae96-8ed5ac2e3422)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/95b4b26e-a59c-445b-aed9-c9586f9f3998)
 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/df326bd0-6096-471e-ab46-9bdbd678ac59)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/92b6215c-c75c-42a5-b3c9-9e1657b891a7)
 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/2b5a4e83-a147-467a-901c-b3f72e3efdfd)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/13eea0b5-d3f9-49b2-be51-01904bff2f8d)
+
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/9ff36e8e-acf2-4f79-a519-28b0267c2fbb)
 
 
 - **Rozmycie:** Filtry rozmycia pozwalają na wygładzanie obrazu i tworzenie efektów miękkości.
-- 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/9a957741-c4cb-4f63-b10d-4454299c55fe)
 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/48cbf0e7-d106-40e0-ae2f-5d102d0954ea)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/a5a748f1-5483-4395-9219-1b773192e11e)
 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/153f80cb-0add-46de-a410-fcee8605d88d)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/eba532b0-e6ce-47c5-9e59-cd45bb4b73b3)
 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/a30b3f44-b082-454e-9347-57ddea9f28f4)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/14ada931-0b3f-4fc7-bea0-53d031e4ea6b)
 
-Kolejnym ciekawym narzędziem jest "smużenie" ![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/9d84c062-6f5a-442c-a708-5c872a4b8763)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/58a250b2-7c9c-49ae-8ff3-4878333b37f9)
+
+
+Kolejnym ciekawym narzędziem jest "smużenie" ![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/da4e39f5-c08e-4381-8f10-6be4b86b514d)
 , dzięki czemu pozwala na rozmazywanie lub wygładzanie obszarów na obrazie. Jest to przydatne narzędzie do tworzenia efektów miękkości, redukcji szumów lub korekty niektórych niedoskonałości na zdjęciach.
 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/0613168f-16de-4659-990b-7bfb48014e8c)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/d7164d1a-f6ba-43d3-8a3e-df39932e58f4)
 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/22ec916a-6e4c-4534-a842-cdcfee3bb8a9)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/20858934-1346-475b-8302-4d299d10196e)
 
 Aby dostosować sobie pędzel mozemy rozwinąć opcję pędzla i wybrać odpowiednią twardość, kształt czy wielkość, dzięki czemu możliwy będzie odpowiedni sposób smużenia
 
-![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/6a66222d-9f72-4bf1-9fd5-a00cd39c0bb9)
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/970d3c1d-5203-46a6-9327-6a82b9428019)
+
+![image](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/324e973c-a0fe-4352-a11f-a0cd57690c8c)
 
 Jeśli poświecimy wystarczająco dużo czasu to możliwe będą i takie efekty:
 
 <details>
   <summary> Rozwiń ⬇️ </summary>
-  
-  <img src='https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/733daf83-23f9-4a5f-8f6d-3b79b143859d' width='300' height='300'>
+
+  <img src='https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/adaa5fb9-2926-4924-ba01-a2c0ade39b7b' width='300' height='300'>
   
 </details>
 
@@ -475,7 +521,8 @@ Jeśli poświecimy wystarczająco dużo czasu to możliwe będą i takie efekty:
     <details>
       <summary>Materiał do zadania:</summary>
       
-      ![hand](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/e6eeb7ab-a15e-43a8-b6df-e68b48131330)
+      ![photo-1621266700389-b91ec0bd724b](https://github.com/TEB-DK/Grafika_rastrowa/assets/125214141/8242425e-ea9a-49ba-923e-e2c59f13692e)
+
 
     </details>
 
